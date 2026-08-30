@@ -1,38 +1,143 @@
-# Hi there, I'm Girum Endalkachew 👋 
-### High School Software Engineer | Full-Stack Web & Mobile App Developer
+<div align="center">
+
+# Hi, I'm Girum Endalkachew 👋
+
+### Full-Stack Developer • Web & Mobile Applications • Building Real Products
+
+<p>
+I build modern digital products with a focus on thoughtful UI/UX,
+scalable architecture, and solving real-world problems.
+</p>
+
+<p>
+  <a href="https://github.com/girum-endalkachew">
+    <img src="https://komarev.com/ghpvc/?username=girum-endalkachew&label=Profile%20Views&color=368ae4&style=flat" alt="Profile views" />
+  </a>
+</p>
+
+</div>
 
 ---
 
-## 🚀 About Me
-- 🎓 **High School Student & Tech Enthusiast** passionate about building modern web and mobile applications.
-- 🏛️ **INSA ASTU Summer Camp Alum:** Selected for intensive training covering full-stack web dev, mobile architecture, backend systems, and software engineering discipline.
-- 💡 **What I Do:** I craft reactive web interfaces using modern frameworks and build native/cross-platform mobile apps.
-- ⚡ **Mindset:** Focus on time management, self-awareness, continuous discipline, and problem-solving.
+## 👨‍💻 About Me
+
+I'm a passionate developer focused on building modern web and mobile applications.
+
+I enjoy taking an idea from concept to a working product — from planning the user experience and designing the interface to building the frontend, backend, and database architecture.
+
+My main interests include:
+
+- 🌐 Full-stack web development
+- 📱 Mobile application development
+- 🎨 UI/UX and product design
+- 🗄️ Backend systems and databases
+- ♟️ Educational technology and digital platforms
+- 🤖 Exploring AI-powered applications
+
+I believe the best way to learn software engineering is by building real projects, solving real problems, and continuously improving.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+# 🚀 Featured Projects
 
-### 🌐 Web Development
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 🛡️ ExamGard
+
+> A security-focused digital examination platform designed to improve the online assessment experience.
+
+**Focus Areas**
+
+- Modern dashboard architecture
+- Role-based systems
+- Exam management
+- Security-focused workflows
+- Database integration
+- Responsive UI/UX
+
+**Tech:** Next.js • React • Supabase • PostgreSQL • Tailwind CSS
+
+---
+
+### ♟️ African Chess Academy
+
+> A modern digital platform designed to support chess education, student learning, tournaments, events, and academy management.
+
+**Planned Features**
+
+- Student dashboard
+- Courses and learning programs
+- Tournament management
+- Events and webinars
+- Coach profiles
+- Certificates
+- Admin dashboard
+
+**Tech:** Next.js • TypeScript • Tailwind CSS • Supabase • PostgreSQL
+
+---
+
+### 📱 Shopio
+
+> A mobile e-commerce application focused on creating a clean and intuitive shopping experience.
+
+**Focus Areas**
+
+- Mobile-first UI
+- Product discovery
+- Shopping workflows
+- Responsive application architecture
+- Modern Flutter development
+
+**Tech:** Flutter • Dart
+
+---
+
+### 🎓 INSA Talent Platform
+
+> A digital platform concept developed around student collaboration, talent management, teams, and technology communities.
+
+**Focus Areas**
+
+- Student management
+- Team organization
+- Dashboard design
+- Modern web development
+- Database architecture
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,firebase" />
+</p>
 
 ### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
 
-### ⚙️ Tools & Workflow
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin" />
+</p>
+
+### 🧰 Tools & Workflow
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
+</p>
 
 ---
 
-## 🛡️ Featured Project
+# 📌 What I'm Currently Focused On
 
-### 🔒 EXAMGUARD
-> *Built & developed during the INSA ASTU Summer Camp.*
-- A security-focused software project designed for exam management.
+```text
+♟️ Building the African Chess Academy digital platform
+🛡️ Improving and expanding ExamGard
+🌐 Deepening my full-stack development skills
+📱 Building better mobile applications with Flutter
+🏗️ Learning more about scalable software architecture
