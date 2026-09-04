@@ -1,143 +1,221 @@
 <div align="center">
 
-# Hi, I'm Girum Endalkachew 👋
+# 👋 Hi, I'm Girum Endalkachew
 
-### Full-Stack Developer • Web & Mobile Applications • Building Real Products
+### 💻 Full-Stack & Mobile Developer
 
-<p>
-I build modern digital products with a focus on thoughtful UI/UX,
-scalable architecture, and solving real-world problems.
-</p>
+**Building real products • Learning continuously • Shipping consistently**
 
-<p>
-  <a href="https://github.com/girum-endalkachew">
-    <img src="https://komarev.com/ghpvc/?username=girum-endalkachew&label=Profile%20Views&color=368ae4&style=flat" alt="Profile views" />
-  </a>
-</p>
+<br>
+
+<a href="https://github.com/girum-endalkachew">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/girum-endalkachew">
+  <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://t.me/Girumendalk">
+  <img src="https://img.shields.io/badge/Telegram-0A0A0A?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=girum-endalkachew&style=for-the-badge&color=000000&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm a passionate developer focused on building modern web and mobile applications.
+I'm a **Full-Stack & Mobile Developer** who enjoys turning ideas into real, usable software.
 
-I enjoy taking an idea from concept to a working product — from planning the user experience and designing the interface to building the frontend, backend, and database architecture.
+I like working across the entire development process — from designing interfaces and building frontend applications to creating backend systems, databases, and mobile applications.
 
-My main interests include:
+### What I enjoy building
 
-- 🌐 Full-stack web development
-- 📱 Mobile application development
-- 🎨 UI/UX and product design
-- 🗄️ Backend systems and databases
-- ♟️ Educational technology and digital platforms
-- 🤖 Exploring AI-powered applications
+- 🌐 Full-stack web applications
+- 📱 Mobile applications
+- 🎨 Modern UI/UX
+- 🗄️ Backend systems & databases
+- 🏗️ Scalable application architecture
+- 🤖 AI-powered applications
+- ♟️ Educational technology platforms
+- 🚀 Real-world digital products
 
-I believe the best way to learn software engineering is by building real projects, solving real problems, and continuously improving.
-
----
-
-# 🚀 Featured Projects
-
-### 🛡️ ExamGard
-
-> A security-focused digital examination platform designed to improve the online assessment experience.
-
-**Focus Areas**
-
-- Modern dashboard architecture
-- Role-based systems
-- Exam management
-- Security-focused workflows
-- Database integration
-- Responsive UI/UX
-
-**Tech:** Next.js • React • Supabase • PostgreSQL • Tailwind CSS
+> I believe the best way to become a better developer is simple:
+> **learn → build → fail → improve → ship → repeat.**
 
 ---
 
-### ♟️ African Chess Academy
+# 🛠️ Tech Stack
 
-> A modern digital platform designed to support chess education, student learning, tournaments, events, and academy management.
-
-**Planned Features**
-
-- Student dashboard
-- Courses and learning programs
-- Tournament management
-- Events and webinars
-- Coach profiles
-- Certificates
-- Admin dashboard
-
-**Tech:** Next.js • TypeScript • Tailwind CSS • Supabase • PostgreSQL
-
----
-
-### 📱 Shopio
-
-> A mobile e-commerce application focused on creating a clean and intuitive shopping experience.
-
-**Focus Areas**
-
-- Mobile-first UI
-- Product discovery
-- Shopping workflows
-- Responsive application architecture
-- Modern Flutter development
-
-**Tech:** Flutter • Dart
-
----
-
-### 🎓 INSA Talent Platform
-
-> A digital platform concept developed around student collaboration, talent management, teams, and technology communities.
-
-**Focus Areas**
-
-- Student management
-- Team organization
-- Dashboard design
-- Modern web development
-- Database architecture
-
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Frontend Development
+### 🌐 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css" />
 </p>
 
 ### ⚙️ Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgresql" />
 </p>
 
-### 📱 Mobile Development
+### 📱 Mobile
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio" />
 </p>
 
-### 🧰 Tools & Workflow
+### 🧰 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker" />
 </p>
 
 ---
 
-# 📌 What I'm Currently Focused On
+# 📊 GitHub Dashboard
+
+<div align="center">
+
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=girum-endalkachew&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark"
+  alt="Girum's GitHub Statistics"
+/>
+
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=girum-endalkachew&layout=compact&hide_border=true&langs_count=8&theme=github_dark"
+  alt="Girum's Top Languages"
+/>
+
+</div>
+
+---
+
+# 🔥 GitHub Contribution Streak
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com/?user=girum-endalkachew&theme=github-dark-blue&hide_border=true"
+  alt="Girum's GitHub Contribution Streak"
+/>
+
+</div>
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=girum-endalkachew&theme=github-compact&hide_border=true&area=true"
+  alt="Girum's GitHub Activity Graph"
+/>
+
+</div>
+
+---
+
+# 🟩 Contribution Journey
+
+<div align="center">
+
+### Real contributions. Real progress. No fake numbers.
+
+<br>
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=girum-endalkachew&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark"
+  alt="GitHub contribution statistics"
+/>
+
+</div>
+
+> 🟢 Your official GitHub contribution calendar is displayed directly on your GitHub profile and is automatically updated by GitHub.
+
+---
+
+# 🚀 Featured Projects
+
+## 🛡️ ExamGard
+
+A security-focused digital examination platform designed to improve the online assessment experience.
+
+### Focus
+
+- 🔐 Security-focused workflows
+- 👥 Role-based systems
+- 📝 Exam management
+- 📊 Dashboard architecture
+- 🗄️ Database integration
+- 📱 Responsive UI/UX
+
+**Tech:** `Next.js` `React` `Supabase` `PostgreSQL` `Tailwind CSS`
+
+---
+
+## ♟️ African Chess Academy
+
+A modern digital platform designed to support chess education, student learning, tournaments, events, and academy management.
+
+### Focus
+
+- 👨‍🎓 Student management
+- 📚 Courses & learning programs
+- ♟️ Tournament management
+- 📅 Events
+- 👨‍🏫 Coach profiles
+- 🏆 Certificates
+- ⚙️ Admin dashboard
+
+**Tech:** `Next.js` `TypeScript` `Tailwind CSS` `Supabase` `PostgreSQL`
+
+---
+
+## 🛒 Shopio
+
+A mobile e-commerce application focused on creating a clean and intuitive shopping experience.
+
+### Focus
+
+- 📱 Mobile-first UI
+- 🛍️ Product discovery
+- 🛒 Shopping workflows
+- 🏗️ Application architecture
+- ⚡ Modern Flutter development
+
+**Tech:** `Flutter` `Dart` `Riverpod` `Dio` `Clean Architecture`
+
+---
+
+## 🎓 INSA Talent
+
+A digital platform concept focused on student collaboration, talent management, teams, and technology communities.
+
+### Focus
+
+- 👨‍🎓 Student management
+- 👥 Team organization
+- 📊 Dashboard design
+- 🌐 Modern web development
+- 🗄️ Database architecture
+
+**Tech:** `TypeScript` `Next.js` `Supabase`
+
+---
+
+# 📌 Currently Working On
 
 ```text
-♟️ Building the African Chess Academy digital platform
-🛡️ Improving and expanding ExamGard
-🌐 Deepening my full-stack development skills
-📱 Building better mobile applications with Flutter
-🏗️ Learning more about scalable software architecture
+♟️ African Chess Academy
+🛡️ ExamGard
+🌐 Full-Stack Development
+📱 Flutter Applications
+🏗️ Scalable Software Architecture
+🤖 AI-powered Applications
