@@ -116,16 +116,22 @@ I like working across the entire development process — from designing interfac
 
 ---
 
-# 📈 GitHub Activity Graph
+# 🟩 Contribution Journey
 
 <div align="center">
 
+### Real contributions. Real progress. No fake numbers.
+
+<br>
+
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=girum-endalkachew&theme=react-dark&hide_border=true&area=true&color=ff0055&line=ff0055"
-  alt="Girum's GitHub Activity Graph"
+  src="https://github-readme-stats.vercel.app/api?username=girum-endalkachew&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=1a1b26&text_color=c0caf5&icon_color=ff0055"
+  alt="GitHub contribution statistics"
 />
 
 </div>
+
+> 🟢 Your official GitHub contribution calendar is displayed directly on your GitHub profile and is automatically updated by GitHub.
 
 ---
 
