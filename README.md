@@ -116,100 +116,21 @@ I like working across the entire development process — from designing interfac
 
 ---
 
-# 🟩 Contribution Journey
+# 🚀 Featured Architecture & Core Systems
 
-<div align="center">
-
-### Real contributions. Real progress. No fake numbers.
-
-<br>
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=girum-endalkachew&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=1a1b26&text_color=c0caf5&icon_color=ff0055"
-  alt="GitHub contribution statistics"
-/>
-
-</div>
-
-> 🟢 Your official GitHub contribution calendar is displayed directly on your GitHub profile and is automatically updated by GitHub.
+| Project | Core Domain & Purpose | Architecture & Tech Stack |
+| :--- | :--- | :--- |
+| **🛡️ ExamGard** | Security-driven digital assessment platform with role access and automated workflows. | `Next.js` `React` `Supabase` `PostgreSQL` `Tailwind CSS` |
+| **♟️ African Chess Academy** | Scalable ed-tech platform managing student cohorts, tournaments, and coach portals. | `Next.js` `TypeScript` `Supabase` `PostgreSQL` |
+| **🛒 Shopio** | Mobile-first e-commerce experience implementing strict clean code principles. | `Flutter` `Dart` `Riverpod` `Clean Architecture` |
+| **🎓 INSA Talent** | Collaborative digital workspace for institutional teams, talent tracking, and asset management. | `TypeScript` `Next.js` `Supabase` |
 
 ---
 
-# 🚀 Featured Projects
-
-## 🛡️ ExamGard
-
-A security-focused digital examination platform designed to improve the online assessment experience.
-
-### Focus
-
-- 🔐 Security-focused workflows
-- 👥 Role-based systems
-- 📝 Exam management
-- 📊 Dashboard architecture
-- 🗄️ Database integration
-- 📱 Responsive UI/UX
-
-**Tech:** `Next.js` `React` `Supabase` `PostgreSQL` `Tailwind CSS`
-
----
-
-## ♟️ African Chess Academy
-
-A modern digital platform designed to support chess education, student learning, tournaments, events, and academy management.
-
-### Focus
-
-- 👨‍🎓 Student management
-- 📚 Courses & learning programs
-- ♟️ Tournament management
-- 📅 Events
-- 👨‍🏫 Coach profiles
-- 🏆 Certificates
-- ⚙️ Admin dashboard
-
-**Tech:** `Next.js` `TypeScript` `Tailwind CSS` `Supabase` `PostgreSQL`
-
----
-
-## 🛒 Shopio
-
-A mobile e-commerce application focused on creating a clean and intuitive shopping experience.
-
-### Focus
-
-- 📱 Mobile-first UI
-- 🛍️ Product discovery
-- 🛒 Shopping workflows
-- 🏗️ Application architecture
-- ⚡ Modern Flutter development
-
-**Tech:** `Flutter` `Dart` `Riverpod` `Dio` `Clean Architecture`
-
----
-
-## 🎓 INSA Talent
-
-A digital platform concept focused on student collaboration, talent management, teams, and technology communities.
-
-### Focus
-
-- 👨‍🎓 Student management
-- 👥 Team organization
-- 📊 Dashboard design
-- 🌐 Modern web development
-- 🗄️ Database architecture
-
-**Tech:** `TypeScript` `Next.js` `Supabase`
-
----
-
-# 📌 Currently Working On
+# 🎯 Engineering Focus & Roadmap
 
 ```text
-♟️ African Chess Academy
-🛡️ ExamGard
-🌐 Full-Stack Development
-📱 Flutter Applications
-🏗️ Scalable Software Architecture
-🤖 AI-powered Applications
+ ┌─────────────────────────┐    ┌─────────────────────────┐    ┌─────────────────────────┐
+ │   SYSTEM ARCHITECTURE   │ →  │   PERFORMANCE TUNING    │ →  │    AI-DRIVEN TOOLING    │
+ │ Scalable backend design │    │ Clean code & state flow │    │ Intelligent integrations│
+ └─────────────────────────┘    └─────────────────────────┘    └─────────────────────────┘
