@@ -96,7 +96,7 @@ I like working across the entire development process — from designing interfac
 
 ---
 
-# 🔥 GitHub Contribution Streak & Trophies
+# 🔥 GitHub Contribution Streak & Productivity
 
 <div align="center">
 
@@ -110,13 +110,6 @@ I like working across the entire development process — from designing interfac
 <img
   src="https://streak-stats.demolab.com/?user=girum-endalkachew&theme=tokyonight&hide_border=true&background=1a1b26&stroke=ff0055&fire=ff0055&sideLabels=true"
   alt="Girum's GitHub Contribution Streak"
-/>
-
-<br><br>
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=girum-endalkachew&theme=dracula&no-frame=true&row=1&column=7"
-  alt="Girum's GitHub Trophies"
 />
 
 </div>
