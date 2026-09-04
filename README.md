@@ -28,9 +28,12 @@
 
 # 👨‍💻 About Me
 
-I'm a **Full-Stack & Mobile Developer** who enjoys turning ideas into real, usable software.
+I'm a **Full-Stack & Mobile Developer** who enjoys turning ideas into real,
+usable software.
 
-I like working across the entire development process — from designing interfaces and building frontend applications to creating backend systems, databases, and mobile applications.
+I like working across the entire development process — from designing
+interfaces and building frontend applications to creating backend systems,
+databases, and mobile applications.
 
 ### What I enjoy building
 
@@ -137,7 +140,8 @@ I like working across the entire development process — from designing interfac
 
 </div>
 
-> 🟢 Your official GitHub contribution calendar is displayed directly on your GitHub profile and is automatically updated by GitHub.
+> 🟢 Your official GitHub contribution calendar is displayed directly on your
+> GitHub profile and is automatically updated by GitHub.
 
 ---
 
@@ -145,7 +149,8 @@ I like working across the entire development process — from designing interfac
 
 ## 🛡️ ExamGard
 
-A security-focused digital examination platform designed to improve the online assessment experience.
+A security-focused digital examination platform designed to improve the
+online assessment experience.
 
 ### Focus
 
@@ -162,7 +167,8 @@ A security-focused digital examination platform designed to improve the online a
 
 ## ♟️ African Chess Academy
 
-A modern digital platform designed to support chess education, student learning, tournaments, events, and academy management.
+A modern digital platform designed to support chess education, student
+learning, tournaments, events, and academy management.
 
 ### Focus
 
@@ -180,7 +186,8 @@ A modern digital platform designed to support chess education, student learning,
 
 ## 🛒 Shopio
 
-A mobile e-commerce application focused on creating a clean and intuitive shopping experience.
+A mobile e-commerce application focused on creating a clean and intuitive
+shopping experience.
 
 ### Focus
 
@@ -196,7 +203,8 @@ A mobile e-commerce application focused on creating a clean and intuitive shoppi
 
 ## 🎓 INSA Talent
 
-A digital platform concept focused on student collaboration, talent management, teams, and technology communities.
+A digital platform concept focused on student collaboration, talent
+management, teams, and technology communities.
 
 ### Focus
 
