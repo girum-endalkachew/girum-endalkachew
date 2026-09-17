@@ -1,136 +1,37 @@
 <div align="center">
+Girum Endalkachew
 
-# 👋 Hi, I'm Girum Endalkachew
+Full-Stack & Mobile Developer
 
-### 💻 Full-Stack & Mobile Developer
+I build real products — web, mobile, and AI-powered — and ship them.
 
-**Building real products • Learning continuously • Shipping consistently**
+<a href="https://github.com/girum-endalkachew"> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/girum-endalkachew"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /> </a> <a href="https://t.me/Girumendalk"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /> </a> <img src="https://komarev.com/ghpvc/?username=girum-endalkachew&style=flat-square&color=6e40c9&label=views" /> </div>
 
-<br>
+I'm a developer who works across the full stack — from UI to database to mobile. I care about clean architecture, real-world usability, and shipping things that actually work.
 
-<a href="https://github.com/girum-endalkachew">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/girum-endalkachew">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://t.me/Girumendalk">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
+My cycle: learn → build → fail → improve → ship → repeat.
 
-<br><br>
+Projects
+Project	What it does	Stack
+ExamGard	Digital assessment platform with role-based access and automated workflows	Next.js Supabase PostgreSQL Tailwind CSS
+African Chess Academy	Ed-tech platform for student cohorts, tournaments, and coach portals	Next.js TypeScript Supabase PostgreSQL
+Shopio	Mobile-first e-commerce app built on clean architecture principles	Flutter Dart Riverpod
+INSA Talent	Collaborative workspace for institutional teams and talent tracking	Next.js TypeScript Supabase
+Sift	Dump your thoughts — it parses them into tasks, events, and reminders	Next.js TypeScript Supabase
+Stack
 
-<img src="https://komarev.com/ghpvc/?username=girum-endalkachew&style=for-the-badge&color=ff0055&label=PROFILE+VIEWS" />
+Frontend — Next.js · React · TypeScript · Tailwind CSS
 
-</div>
+Backend & DB — Node.js · Express · Supabase · PostgreSQL
 
----
+Mobile — Flutter · Dart · Riverpod · Kotlin
 
-# 👨‍💻 About Me
+Tools — Git · Figma · Docker · VS Code · Android Studio
 
-I'm a **Full-Stack & Mobile Developer** who enjoys turning ideas into real, usable software.
-
-I like working across the entire development process — from designing interfaces and building frontend applications to creating backend systems, databases, and mobile applications.
-
-### What I enjoy building
-
-- 🌐 Full-stack web applications
-- 📱 Mobile applications
-- 🎨 Modern UI/UX
-- 🗄️ Backend systems & databases
-- 🏗️ Scalable application architecture
-- 🤖 AI-powered applications
-- ♟️ Educational technology platforms
-- 🚀 Real-world digital products
-
-> I believe the best way to become a better developer is simple:
-> **learn → build → fail → improve → ship → repeat.**
-
----
-
-# 🛠️ Tech Stack
-
-### 🌐 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css" />
-</p>
-
-### ⚙️ Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgresql" />
-</p>
-
-### 📱 Mobile
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio" />
-</p>
-
-### 🧰 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker" />
-</p>
-
----
-
-# 📊 GitHub Dashboard
-
-<div align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=girum-endalkachew&theme=dracula"
-  alt="Girum's GitHub Statistics Card"
-/>
+GitHub Stats
+<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=girum-endalkachew&theme=dracula" /> &nbsp; <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=girum-endalkachew&theme=dracula" />
 
 <br><br>
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=girum-endalkachew&theme=dracula"
-  alt="Girum's Top Languages Card"
-/>
-
-</div>
-
----
-
-# 🔥 GitHub Contribution Streak & Productivity
-
-<div align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=girum-endalkachew&theme=dracula"
-  alt="Productive Time"
-/>
-
-<br><br>
-
-<img
-  src="https://streak-stats.demolab.com/?user=girum-endalkachew&theme=tokyonight&hide_border=true&background=1a1b26&stroke=ff0055&fire=ff0055&sideLabels=true"
-  alt="Girum's GitHub Contribution Streak"
-/>
-
-</div>
-
----
-
-# 🚀 Featured Architecture & Core Systems
-
-| Project | Core Domain & Purpose | Architecture & Tech Stack |
-| :--- | :--- | :--- |
-| **🛡️ ExamGard** | Security-driven digital assessment platform with role access and automated workflows. | `Next.js` `React` `Supabase` `PostgreSQL` `Tailwind CSS` |
-| **♟️ African Chess Academy** | Scalable ed-tech platform managing student cohorts, tournaments, and coach portals. | `Next.js` `TypeScript` `Supabase` `PostgreSQL` |
-| **🛒 Shopio** | Mobile-first e-commerce experience implementing strict clean code principles. | `Flutter` `Dart` `Riverpod` `Clean Architecture` |
-| **🎓 INSA Talent** | Collaborative digital workspace for institutional teams, talent tracking, and asset management. | `TypeScript` `Next.js` `Supabase` |
-
----
-
-# 🎯 Engineering Focus & Roadmap
-
-```text
- ┌─────────────────────────┐    ┌─────────────────────────┐    ┌─────────────────────────┐
- │   SYSTEM ARCHITECTURE   │ →  │   PERFORMANCE TUNING    │ →  │    AI-DRIVEN TOOLING    │
- │ Scalable backend design │    │ Clean code & state flow │    │ Intelligent integrations│
- └─────────────────────────┘    └─────────────────────────┘    └─────────────────────────┘
+<img src="https://streak-stats.demolab.com/?user=girum-endalkachew&theme=tokyonight&hide_border=true&background=1a1b26&stroke=6e40c9&fire=6e40c9&ring=6e40c9&sideLabels=true" /> </div>
+<div align="center"> <sub>Open to collaboration on interesting problems.</sub> </div>
