@@ -29,9 +29,13 @@ Mobile — Flutter · Dart · Riverpod · Kotlin
 Tools — Git · Figma · Docker · VS Code · Android Studio
 
 GitHub Stats
-<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=girum-endalkachew&theme=dracula" /> &nbsp; <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=girum-endalkachew&theme=dracula" />
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=girum-endalkachew&show_icons=true&hide_border=true&bg_color=1a1b26&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&ring_color=6e40c9" />
+
+ 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=girum-endalkachew&layout=compact&hide_border=true&bg_color=1a1b26&title_color=6e40c9&text_color=c9d1d9" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=girum-endalkachew&theme=tokyonight&hide_border=true&background=1a1b26&stroke=6e40c9&fire=6e40c9&ring=6e40c9&sideLabels=true" /> </div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=girum-endalkachew&theme=tokyonight&hide_border=true&background=1a1b26&stroke=6e40c9&ring=6e40c9&fire=ff6e96&currStreakLabel=6e40c9&sideLabels=6e40c9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" /> </div>
 <div align="center"> <sub>Open to collaboration on interesting problems.</sub> </div>
